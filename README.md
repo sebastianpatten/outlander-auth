@@ -1,6 +1,6 @@
 # Outlander-API
 
-Outlander-API runs HTTP Rest actions to support the Outlander UI. All data comes from GraphQL.
+Change all the settings in config.js! 
 
 ## Running
 
