@@ -1,4 +1,4 @@
-# Outlander-API
+# Outlander-Auth
 
 Change all the settings in config.js! 
 
